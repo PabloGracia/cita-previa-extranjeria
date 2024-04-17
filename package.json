@@ -1,0 +1,15 @@
+{
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "puppeteer": "^22.6.5",
+    "puppeteer-core": "^22.6.5",
+    "resend": "^3.2.0"
+  }
+}
